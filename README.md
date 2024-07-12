@@ -3,14 +3,14 @@
 <h2>I am a developer with expertise in cybersecurity, data analysis, and web development. <img src="https://img.icons8.com/?size=100&id=wYZphVpCWsq5&format=png&color=000000" width="30px"></h2>
 
 ### About Me
-### -I am 38 years old.
-### -I am from Venezuela.
-### -I am developer
-### -Self-taught and highly creative.
-### -I seek to learn and improve constantly.
-### -Solution development using technology
-### -I want to provide the best visual experience for users.
-### -I have a deep interest in cybersecurity, e-commerce, and data analysis.
+ -  I am 38 years old.
+ -  I am from Venezuela.
+ -  I am developer
+ -  Self-taught and highly creative.
+ -  I seek to learn and improve constantly.
+ -  Solution development using technology
+ -  I want to provide the best visual experience for users.
+ -  I have a deep interest in cybersecurity, e-commerce, and data analysis.
 
 ### Technologies
  
