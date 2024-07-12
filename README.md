@@ -30,6 +30,55 @@
 
 
 
+
+Cybersecurity:
+Skills:
+Analysis: Ability to collect, interpret, and analyze complex data to identify threats, vulnerabilities, and security risks.
+Problem-solving: Aptitude to solve technical problems creatively and efficiently, thinking critically to find appropriate solutions.
+Networking and operating systems: Deep understanding of computer networks, operating systems, and security protocols.
+Security tools: Familiarity with security tools such as firewalls, intrusion detection systems (IDS), and forensic analysis software.
+Communication: Ability to communicate complex technical information to non-technical audiences in a clear and concise manner.
+Teamwork: Skill to collaborate effectively with other security professionals and IT teams.
+Technologies:
+
+Operating systems: Windows, Linux, macOS
+Networking: TCP/IP, DNS, routing, switching
+Network security: Firewalls, IDS/IPS, VPN
+Encryption: SSL/TLS, asymmetric cryptography
+Penetration testing: Nmap, Nessus, Metasploit
+Forensic analysis: Digital Evidence, FTK, EnCase
+
+Data Analytics:
+Skills:
+Mathematics and statistics: Strong knowledge of mathematics, statistics, and probability for data analysis.
+Programming: Experience in programming languages such as Python, R, and SQL to manipulate and analyze data.
+Data analysis tools: Familiarity with data analysis tools such as Tableau, Power BI, and data mining tools.
+Data visualization: Ability to create compelling and informative data visualizations that communicate findings effectively.
+Communication: Ability to communicate data analysis results to technical and non-technical audiences in a clear and concise manner.
+Critical thinking: Skill to interpret data, identify trends and patterns, and draw meaningful conclusions.
+Technologies:
+
+Programming languages: Python, R, SQL
+Data analysis tools: Tableau, Power BI, SPSS
+Databases: MySQL, PostgreSQL, NoSQL
+Data mining: Weka, RapidMiner
+Machine learning: TensorFlow, scikit-learn
+
+Web Design:
+Skills:
+Web development: Knowledge of web programming languages like HTML, CSS, and JavaScript, and frameworks like React.
+Prototyping: Experience in prototyping tools like Figma.
+Usability: Ability to create intuitive, user-friendly, and accessible websites.
+Communication: Ability to communicate design ideas effectively to clients and collaborators.
+Adaptability: Skill to adapt to new design trends and web technologies.
+Technologies:
+
+Web programming languages: HTML, CSS, JavaScript
+Web frameworks: React, Angular, Vue.js
+Prototyping tools: Figma, Adobe XD, Sketch
+Search engine optimization (SEO): Knowledge of SEO best practices to improve website visibility in search results.
+
+
 ### Contact Me
 <a href="https://https://www.linkedin.com/in/juan-saavedra-3602a714a//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20saavedra-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.youtube.com/channel/UCUORUOKKg8Ezj4tBJb_cRUQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Juan%20Dev-blue?style=flat-square&logo=youtube"></a>
