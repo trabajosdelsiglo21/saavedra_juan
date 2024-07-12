@@ -31,8 +31,8 @@
 
 
 
-Cybersecurity:
-Skills:
+### Cybersecurity:
+-  Skills:
 Analysis: Ability to collect, interpret, and analyze complex data to identify threats, vulnerabilities, and security risks.
 Problem-solving: Aptitude to solve technical problems creatively and efficiently, thinking critically to find appropriate solutions.
 Networking and operating systems: Deep understanding of computer networks, operating systems, and security protocols.
@@ -48,8 +48,8 @@ Encryption: SSL/TLS, asymmetric cryptography
 Penetration testing: Nmap, Nessus, Metasploit
 Forensic analysis: Digital Evidence, FTK, EnCase
 
-Data Analytics:
-Skills:
+### Data Analytics:
+-   Skills:
 Mathematics and statistics: Strong knowledge of mathematics, statistics, and probability for data analysis.
 Programming: Experience in programming languages such as Python, R, and SQL to manipulate and analyze data.
 Data analysis tools: Familiarity with data analysis tools such as Tableau, Power BI, and data mining tools.
@@ -58,14 +58,14 @@ Communication: Ability to communicate data analysis results to technical and non
 Critical thinking: Skill to interpret data, identify trends and patterns, and draw meaningful conclusions.
 Technologies:
 
-Programming languages: Python, R, SQL
-Data analysis tools: Tableau, Power BI, SPSS
+Programming languages: Python, SQL
+Data analysis tools: Tableau, Power BI
 Databases: MySQL, PostgreSQL, NoSQL
 Data mining: Weka, RapidMiner
 Machine learning: TensorFlow, scikit-learn
 
-Web Design:
-Skills:
+###  Web Design:
+-  Skills:
 Web development: Knowledge of web programming languages like HTML, CSS, and JavaScript, and frameworks like React.
 Prototyping: Experience in prototyping tools like Figma.
 Usability: Ability to create intuitive, user-friendly, and accessible websites.
@@ -74,8 +74,8 @@ Adaptability: Skill to adapt to new design trends and web technologies.
 Technologies:
 
 Web programming languages: HTML, CSS, JavaScript
-Web frameworks: React, Angular, Vue.js
-Prototyping tools: Figma, Adobe XD, Sketch
+Web frameworks: React
+Prototyping tools: Figma
 Search engine optimization (SEO): Knowledge of SEO best practices to improve website visibility in search results.
 
 
